@@ -1,3 +1,4 @@
+
 # Sarcasm_VLM
 
-![teaser](images/teaser.pdf)
+[teaser.pdf](https://github.com/user-attachments/files/26716742/teaser.pdf)
